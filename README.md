@@ -49,6 +49,6 @@ Men **Full-Stack Developer**man va texnologiyalar yordamida kreativ va samarali 
 3. O‘z loyihalarimni Global bozorda namoyish qilish
 
 ## 📫 Men bilan bog‘lanish:
-- **Email:** lazizjon.dev@example.com
-- **LinkedIn:** [LinkedIn profilingizni linki](#)
-- **GitHub:** [@lazizjon](#)
+- **Email:** laz1k.khan1626@gmail.com
+- **LinkedIn:** 
+- **GitHub:** 
